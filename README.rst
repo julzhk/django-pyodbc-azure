@@ -22,7 +22,7 @@ Features
    Azure SQL Database
 -  Passes most of the tests of the Django test suite
 -  Compatible with
-   `Micosoft ODBC Driver for SQL Server <https://docs.microsoft.com/en-us/sql/connect/odbc/microsoft-odbc-driver-for-sql-server>`__,
+   `Microsoft ODBC Driver for SQL Server <https://docs.microsoft.com/en-us/sql/connect/odbc/microsoft-odbc-driver-for-sql-server>`__,
    `SQL Server Native Client <https://msdn.microsoft.com/en-us/library/ms131321(v=sql.120).aspx>`__,
    and `FreeTDS <http://www.freetds.org/>`__ ODBC drivers
 
